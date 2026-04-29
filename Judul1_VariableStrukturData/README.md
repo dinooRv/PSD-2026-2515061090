@@ -1,0 +1,1 @@
+Program ini fungsinya untuk mengelola urutan kedatangan pelanggan di sebuah studio foto menggunakan sistem prioritas. Fungsinya mencakup pendaftaran pelanggan, pemisahan jalur antrean (VIP vs Reguler), pemanggilan pelanggan yang sedang dilayani, dan pemantauan seluruh daftar tunggu secara real-time. Struktur data yang digunakan adalah singly linked list.
