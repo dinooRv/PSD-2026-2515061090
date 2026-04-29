@@ -18,3 +18,8 @@ Proses ini memutus orang terdepan dari rangkaian karena head sekarang sudah berp
 
 <img width="544" height="339" alt="gambar 5" src="https://github.com/user-attachments/assets/eea20edb-ecc3-4887-8290-0be383fc582d" />
 
+hasil output
+
+<img width="425" height="392" alt="output" src="https://github.com/user-attachments/assets/5701fddb-c41f-4351-b684-230c8cc04c21" />
+
+link video youtube https://youtu.be/Oe7Taay3fuI?si=KNcb1krxuKHxz-xL
