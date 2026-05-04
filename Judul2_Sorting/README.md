@@ -1,4 +1,6 @@
 ## SISTEM ANTREAN BANK MANDIRI MENGGUNAKAN ALGORITMA INSERTION SORT##
+<img width="595" height="477" alt="Screenshot 2026-05-04 234740" src="https://github.com/user-attachments/assets/d0f353e5-b590-4538-807a-3ca6ff524ff5" />
+<img width="513" height="207" alt="Screenshot 2026-05-04 234757" src="https://github.com/user-attachments/assets/149ba591-6ab8-45fb-8a41-38b6204fa84c" />
 for i in range(1, jumlah):
 "Saya mulai looping dari nasabah kedua (indeks 1), soalnya nasabah pertama di awal sudah kita anggap sebagai patokan awal yang bener." 
 waktu_temp = antrean[i]
@@ -23,5 +25,7 @@ urutkan_prioritas_nasabah(daftar_kedatangan, n_nasabah)
 for i in range(n_nasabah): print(...)
 "Terakhir tinggal diprint aja. Hasilnya bakal kelihatan rapi, nasabah yang datang di menit paling awal bakal muncul di urutan prioritas nomor satu." 
 https://youtu.be/H-inocIglPA?si=MxrnKOa4NWZAGguI link video youtube
+
+<img width="699" height="308" alt="output judul 2" src="https://github.com/user-attachments/assets/756d3765-727b-4e68-bd43-c1d5ebd90b80" /> output gambar
 
 
