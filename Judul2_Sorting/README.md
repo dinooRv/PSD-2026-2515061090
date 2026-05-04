@@ -1,6 +1,5 @@
-
-
-
+## SISTEM ANTREAN BANK MANDIRI ##
+menggunakan Algoritma insertion sort
 
 for i in range(1, jumlah):
 "Saya mulai looping dari nasabah kedua (indeks 1), soalnya nasabah pertama di awal sudah kita anggap sebagai patokan awal yang bener." 
