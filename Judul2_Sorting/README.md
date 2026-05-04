@@ -22,5 +22,6 @@ urutkan_prioritas_nasabah(daftar_kedatangan, n_nasabah)
 "Kalau semua data sudah lengkap, saya panggil fungsi sorting tadi buat ngerapihin urutannya." 
 for i in range(n_nasabah): print(...)
 "Terakhir tinggal diprint aja. Hasilnya bakal kelihatan rapi, nasabah yang datang di menit paling awal bakal muncul di urutan prioritas nomor satu." 
+https://youtu.be/H-inocIglPA?si=MxrnKOa4NWZAGguI link video youtube
 
 
