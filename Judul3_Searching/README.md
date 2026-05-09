@@ -1,5 +1,6 @@
 ## SISTEM PENCARIAN NILAI MAHASISWA MENGGUNAKAN ALGORITMA SEQUENSIAL SEARCH
 
+<img width="818" height="619" alt="Screenshot 2026-05-09 235508" src="https://github.com/user-attachments/assets/22ec02ad-5f93-4bb6-b8f6-4525656d5d00" />
 Bahan yang Dibutuhkan: Fungsi ini menerima dua data masuk, yaitu daftar nilai yang mau diperiksa (skor_ujian) dan nilai spesifik yang sedang kita cari (target).
 Titik Mulai Pencarian: Saya mengatur posisi awal di urutan pertama atau indeks 0. Ini adalah standar awal dalam pemrograman untuk mulai membaca sebuah daftar.
 Membatasi Jangkauan: Saya hitung dulu total jumlah datanya pakai perintah len. Gunanya supaya saya punya batas yang jelas kapan harus berhenti dan tidak mencoba mencari di luar jumlah data yang ada.
@@ -13,5 +14,6 @@ Sistem Keamanan: Saya tambahkan pengaman agar kalau ada yang salah memasukkan te
 Perintah Berhenti: Saya sediakan opsi untuk keluar. Jika saya mengetik 'keluar', sistem akan membaca perintah itu dan langsung menghentikan seluruh proses.
 Proses Eksekusi: Begitu angka yang dicari sudah masuk, saya langsung memanggil fungsi pencarian yang sudah saya buat di atas. Hasilnya tinggal saya tampilkan ke layar secara sistematis.
 output dari program <img width="531" height="285" alt="Screenshot 2026-05-09 233531" src="https://github.com/user-attachments/assets/b5838638-6422-4dce-ab6c-c0a86f318cf8" />
+link video youtube https://youtu.be/EkhG2TaZkiA
 
 
