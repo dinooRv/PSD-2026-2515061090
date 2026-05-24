@@ -1,1 +1,4 @@
+## DATABASE SISTEM MANAJEMEN NILAI MAHASISWA
 
+<img width="346" height="221" alt="Screenshot 2026-05-24 170805" src="https://github.com/user-attachments/assets/3a7e3e5c-f35c-43c9-a483-bacf2da1a10b" />
+Di awal program, saya bikin class Node sebagai blueprint buat nyetak setiap unit atau kotak data di memori. Di fungsi inisialisasi (__init__), saya siapin tiga variabel utama: key buat nyimpen nilai data angka yang dimasukin, dan variabel penunjuk left (kiri) sama right (kanan) yang jadi jalur koneksi ke level bawahnya. Saat node baru dibuat, dua jalur penunjuk ini saya set kosong atau None. Nah, di class utama BSTLanjut, saya pakai fungsi __init__ buat ngatur gerbang atau akar utama pohon (self.root) ke kondisi None. Ini cara saya kasih tanda awal ke sistem bahwa database pohon masih kosong dan belum punya data indukan sama sekali.
