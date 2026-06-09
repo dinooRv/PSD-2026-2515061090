@@ -14,14 +14,21 @@ Fungsi buat nyimpen data. Program bakal nyari rak yang cocok sesuai hitungan pet
 Kalau ternyata NIM si mahasiswa udah ada di rak itu, nilainya langsung ditumpuk pake nilai baru.
 Kalau NIM-nya belum ada, kardus barunya langsung diselipin di antrean paling depan rak itu.
 
+
+
 <img width="343" height="132" alt="5 ta" src="https://github.com/user-attachments/assets/9b982987-2b0b-4ab9-802a-93728a7db8cf" />
 Fungsi buat nyari sekardus-kardusnya. Program langsung lari ke rak yang dituju, terus ngubek-ngubek antrean dari depan ke belakang. Begitu ketemu yang NIM-nya cocok, satu kardus utuh langsung diangkat dan dikasihin ke lu.
+
+
 
 <img width="269" height="97" alt="6 ta" src="https://github.com/user-attachments/assets/da939872-206f-4a82-9098-1d4be3b21cba" />
 Fungsi ini tipe orang yang terima beres. Dia males megang kardusnya, jadi dia nyuruh fungsi search buat nyari dulu. Begitu kardusnya ketemu, dia cuma ngintip angka nilainya doang terus dikasihin ke lu.
 
+
+
 <img width="459" height="230" alt="7 ta" src="https://github.com/user-attachments/assets/920fab8a-a350-4827-8e04-6d0ff83dcdcc" />
 Fungsi buat ngebuang data. Kerjanya mirip kayak mutus rantai: begitu kardus yang mau dibuang ketemu, tali dari kardus sebelumnya bakal dipaksa ngelompatin kardus itu dan langsung diiket ke kardus setelahnya. Kardus target otomatis lepas dan kebuang.
+
 
 <img width="459" height="168" alt="8 ta" src="https://github.com/user-attachments/assets/4090ec6a-0d16-40a4-8c00-b3bec7b4b38a" />
 Fungsi buat ngeliat isi semua rak. Dia bakal buka rak dari nomor 0 sampe 9 terus dipajang memanjang ke samping pake simbol panah (->). Dari sini lu bisa tahu rak mana aja yang lagi numpuk antreannya.
